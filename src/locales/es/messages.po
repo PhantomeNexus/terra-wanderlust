@@ -1,179 +1,181 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2026-06-03 17:14+0200\n"
+"POT-Creation-Date: 2026-06-03 17:08+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: @lingui/cli\n"
 "Language: es\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
 
 #: src/components/Experiences.jsx:303
 msgid " / person"
-msgstr ""
-
-#: src/components/Footer.jsx:186
-msgid "© 2026 Terra Wanderlust. All rights reserved."
-msgstr ""
+msgstr " / persona"
 
 #: src/components/Experiences.jsx:60
 msgid "$2,400"
-msgstr ""
+msgstr "$2.400"
 
 #: src/components/Experiences.jsx:10
 msgid "$2,800"
-msgstr ""
+msgstr "$2.800"
 
 #: src/components/Experiences.jsx:30
 msgid "$3,500"
-msgstr ""
+msgstr "$3.500"
 
 #: src/components/Experiences.jsx:50
 msgid "$3,900"
-msgstr ""
+msgstr "$3.900"
 
 #: src/components/Experiences.jsx:20
 msgid "$4,200"
-msgstr ""
+msgstr "$4.200"
 
 #: src/components/Experiences.jsx:40
 msgid "$5,100"
-msgstr ""
+msgstr "$5.100"
 
 #: src/components/Destinations.jsx:7
 msgid "10 Experiences"
-msgstr ""
+msgstr "10 Experiencias"
 
 #: src/components/Destinations.jsx:5
 msgid "12 Experiences"
-msgstr ""
+msgstr "12 Experiencias"
 
 #: src/components/Destinations.jsx:10
 msgid "14 Experiences"
-msgstr ""
+msgstr "14 Experiencias"
 
 #: src/components/Experiences.jsx:11
 msgid "5 Days"
-msgstr ""
+msgstr "5 Días"
 
 #: src/components/Experiences.jsx:31
 #: src/components/Experiences.jsx:61
 msgid "6 Days"
-msgstr ""
+msgstr "6 Días"
 
 #: src/components/Destinations.jsx:8
 msgid "6 Experiences"
-msgstr ""
+msgstr "6 Experiencias"
 
 #: src/components/Experiences.jsx:21
 msgid "7 Days"
-msgstr ""
+msgstr "7 Días"
 
 #: src/components/Experiences.jsx:41
 msgid "8 Days"
-msgstr ""
+msgstr "8 Días"
 
 #: src/components/Destinations.jsx:6
 msgid "8 Experiences"
-msgstr ""
+msgstr "8 Experiencias"
 
 #: src/components/Experiences.jsx:51
 msgid "9 Days"
-msgstr ""
+msgstr "9 Días"
 
 #: src/components/Destinations.jsx:9
 msgid "9 Experiences"
-msgstr ""
+msgstr "9 Experiencias"
 
 #. Nav link: about us section
 #: src/components/Navbar.jsx:116
 msgid "About"
-msgstr ""
+msgstr "Nosotros"
 
 #: src/components/Experiences.jsx:72
 #: src/components/Footer.jsx:138
 msgid "Adventure"
-msgstr ""
+msgstr "Aventura"
 
 #: src/components/Experiences.jsx:71
 msgid "All"
-msgstr ""
+msgstr "Todos"
 
 #: src/components/Experiences.jsx:48
 msgid "Alpine Wilderness Trek"
-msgstr ""
+msgstr "Trekking en la Naturaleza Alpina"
 
 #: src/components/Testimonials.jsx:13
 msgid "As someone who's traveled to 60+ countries, I thought I'd seen it all. The Northern Lights retreat redefined what luxury eco-travel can be. Impeccable."
-msgstr ""
+msgstr "Como alguien que ha viajado a más de 60 países, creía haberlo visto todo. El retiro de Auroras Boreales redefinió lo que puede ser el viaje de lujo ecológico. Impecable."
 
 #: src/components/Footer.jsx:132
 msgid "B Corp Certified"
-msgstr ""
+msgstr "Certificado B Corp"
 
 #: src/components/Destinations.jsx:10
 #: src/components/Footer.jsx:153
 msgid "Bali"
-msgstr ""
+msgstr "Bali"
 
 #: src/components/Experiences.jsx:59
 msgid "Bali, Indonesia"
-msgstr ""
+msgstr "Bali, Indonesia"
 
 #. CTA: reserve a travel experience
 #. CTA: reserve a travel experience
 #: src/components/Navbar.jsx:158
 #: src/components/Navbar.jsx:187
 msgid "Book Now"
-msgstr ""
+msgstr "Reservar Ahora"
 
 #: src/components/Features.jsx:25
 msgid "Breathtaking Views"
-msgstr ""
+msgstr "Vistas Espectaculares"
 
 #. Stat label: net-zero carbon emissions
 #: src/components/Hero.jsx:219
 msgid "Carbon Footprint"
-msgstr ""
+msgstr "Huella de Carbono"
 
 #: src/components/Features.jsx:7
 msgid "Carbon Neutral"
-msgstr ""
+msgstr "Carbono Neutral"
 
 #: src/components/Footer.jsx:168
 msgid "Careers"
-msgstr ""
+msgstr "Empleos"
 
 #: src/components/Footer.jsx:167
 msgid "Company"
-msgstr ""
+msgstr "Empresa"
 
 #: src/components/Footer.jsx:168
 msgid "Contact"
-msgstr ""
+msgstr "Contacto"
 
 #: src/components/Experiences.jsx:38
 msgid "Coral Reef Expedition"
-msgstr ""
+msgstr "Expedición de Arrecife de Coral"
 
 #: src/components/Destinations.jsx:5
 #: src/components/Experiences.jsx:9
 #: src/components/Footer.jsx:153
 msgid "Costa Rica"
-msgstr ""
+msgstr "Costa Rica"
 
 #. Experience category: cultural immersion trips
 #: src/components/Experiences.jsx:74
 #: src/components/Footer.jsx:138
 msgid "Cultural"
-msgstr ""
+msgstr "Cultural"
 
 #: src/components/Hero.jsx:170
 msgid "Curated Ecological Journeys"
-msgstr ""
+msgstr "Viajes Ecológicos Seleccionados"
 
 #: src/components/Experiences.jsx:252
 msgid "Curated Journeys"
-msgstr ""
+msgstr "Viajes Seleccionados"
 
 #. Nav link: travel destinations section
 #. Stat label: travel destinations count
@@ -181,31 +183,31 @@ msgstr ""
 #: src/components/Hero.jsx:216
 #: src/components/Navbar.jsx:115
 msgid "Destinations"
-msgstr ""
+msgstr "Destinos"
 
 #: src/components/Hero.jsx:174
 msgid "Discover the World's Most <0>Extraordinary</0> Places"
-msgstr ""
+msgstr "Descubre los Lugares más <0>Extraordinarios</0> del Mundo"
 
 #: src/components/Experiences.jsx:43
 msgid "Dive pristine reefs with marine biologists, contribute to coral restoration, and unwind in overwater villas powered by solar energy."
-msgstr ""
+msgstr "Bucea en arrecifes vírgenes con biólogos marinos, contribuye a la restauración de coral y relájate en villas sobre el agua impulsadas por energía solar."
 
 #: src/components/Testimonials.jsx:20
 msgid "Elena Rodriguez"
-msgstr ""
+msgstr "Elena Rodríguez"
 
 #: src/components/CTA.jsx:133
 msgid "Enter your email"
-msgstr ""
+msgstr "Ingresa tu correo electrónico"
 
 #: src/components/Features.jsx:8
 msgid "Every trip is fully offset. We invest in reforestation and renewable energy projects at each destination."
-msgstr ""
+msgstr "Cada viaje está completamente compensado. Invertimos en proyectos de reforestación y energía renovable en cada destino."
 
 #: src/components/Features.jsx:19
 msgid "Exclusive Access"
-msgstr ""
+msgstr "Acceso Exclusivo"
 
 #. Nav link: curated travel packages section
 #. Stat label: curated travel packages count
@@ -213,243 +215,247 @@ msgstr ""
 #: src/components/Hero.jsx:217
 #: src/components/Navbar.jsx:114
 msgid "Experiences"
-msgstr ""
+msgstr "Experiencias"
 
 #. CTA: browse curated travel packages
 #: src/components/Hero.jsx:197
 msgid "Explore Experiences"
-msgstr ""
+msgstr "Explorar Experiencias"
 
 #. Trip type and destination attribution for testimonial
 #: src/components/Testimonials.jsx:21
 msgid "Family Trip, Patagonia"
-msgstr ""
+msgstr "Viaje Familiar, Patagonia"
 
 #: src/components/Destinations.jsx:114
 msgid "Featured Destinations"
-msgstr ""
+msgstr "Destinos Destacados"
 
 #: src/components/CTA.jsx:153
 msgid "Get Started"
-msgstr ""
+msgstr "Comenzar"
 
 #: src/components/Features.jsx:26
 msgid "Hand-selected accommodations perched on cliffs, nestled in canopies, or floating on crystal waters."
-msgstr ""
+msgstr "Alojamientos seleccionados a mano, perchados en acantilados, anidados en dosel o flotando en aguas cristalinas."
 
 #: src/components/Hero.jsx:218
 msgid "Happy Travelers"
-msgstr ""
+msgstr "Viajeros Felices"
 
 #: src/components/Experiences.jsx:53
 msgid "Hike through pristine glaciers and ancient forests, kayak turquoise lakes, and camp in eco-shelters with views of towering granite spires."
-msgstr ""
+msgstr "Camina a través de glaciares vírgenes y bosques antiguos, navega en kayak lagos turquesas y acampa en eco-refugios con vistas a imponentes agujas de granito."
 
 #. Trip type and destination attribution for testimonial
 #: src/components/Testimonials.jsx:9
 msgid "Honeymoon in Costa Rica"
-msgstr ""
+msgstr "Luna de Miel en Costa Rica"
 
 #: src/components/Destinations.jsx:6
 #: src/components/Experiences.jsx:19
 #: src/components/Footer.jsx:153
 msgid "Iceland"
-msgstr ""
+msgstr "Islandia"
 
 #: src/components/Hero.jsx:180
 msgid "Immerse yourself in exclusive, planet-conscious travel experiences. From hidden rainforest lodges to cliffside retreats — every journey leaves only footprints and unforgettable memories."
-msgstr ""
+msgstr "Sumérgete en experiencias de viaje exclusivas y conscientes del planeta. Desde albergues ocultos en la selva tropical hasta retiros en acantilados — cada viaje deja solo huellas y recuerdos inolvidables."
 
 #: src/components/CTA.jsx:118
 msgid "Join our community of conscious travelers. Get early access to new experiences, exclusive offers, and stories from the world's most breathtaking destinations."
-msgstr ""
+msgstr "Únete a nuestra comunidad de viajeros conscientes. Obtén acceso anticipado a nuevas experiencias, ofertas exclusivas e historias de los destinos más impresionantes del mundo."
 
 #: src/components/Features.jsx:20
 msgid "Limited group sizes and private guides give you intimate access to places most travelers never see."
-msgstr ""
+msgstr "Los tamaños de grupo limitados y guías privados te dan acceso íntimo a lugares que la mayoría de viajeros nunca ven."
 
 #: src/components/Features.jsx:13
 msgid "Local Communities"
-msgstr ""
+msgstr "Comunidades Locales"
 
 #: src/components/Destinations.jsx:8
 #: src/components/Experiences.jsx:39
 #: src/components/Footer.jsx:153
 msgid "Maldives"
-msgstr ""
+msgstr "Maldivas"
 
 #: src/components/Testimonials.jsx:14
 msgid "Marcus Chen"
-msgstr ""
+msgstr "Marcus Chen"
 
 #. Experience category: ocean/reef trips
 #: src/components/Experiences.jsx:75
 #: src/components/Footer.jsx:138
 msgid "Marine"
-msgstr ""
+msgstr "Marino"
 
 #: src/components/Experiences.jsx:63
 msgid "Meditate in thousand-year-old temples, practice yoga on rice terrace cliffs, and join local ceremonies in traditional Balinese compounds."
-msgstr ""
+msgstr "Medita en templos milenarios, practica yoga en acantilados de terrazas de arroz y únete a ceremonias locales en compuestos tradicionales balineses."
 
 #: src/components/Destinations.jsx:7
 #: src/components/Experiences.jsx:29
 #: src/components/Footer.jsx:153
 msgid "Morocco"
-msgstr ""
+msgstr "Marruecos"
 
 #: src/components/CTA.jsx:158
 msgid "No spam, ever. Unsubscribe anytime."
-msgstr ""
+msgstr "Sin spam, nunca. Puedes desuscribirse en cualquier momento."
 
 #: src/components/Experiences.jsx:18
 msgid "Northern Lights Retreat"
-msgstr ""
+msgstr "Retiro de Auroras Boreales"
 
 #: src/components/Footer.jsx:168
 msgid "Our Story"
-msgstr ""
+msgstr "Nuestra Historia"
 
 #: src/components/Footer.jsx:168
 msgid "Partners"
-msgstr ""
+msgstr "Socios"
 
 #: src/components/Destinations.jsx:9
 #: src/components/Experiences.jsx:49
 #: src/components/Footer.jsx:153
 msgid "Patagonia"
-msgstr ""
+msgstr "Patagonia"
 
 #: src/components/Footer.jsx:168
 msgid "Press"
-msgstr ""
+msgstr "Prensa"
 
 #: src/components/Experiences.jsx:8
 msgid "Rainforest Canopy Walk"
-msgstr ""
+msgstr "Paseo por el Dosel de la Selva Tropical"
 
 #: src/components/CTA.jsx:116
 msgid "Ready for Something Extraordinary?"
-msgstr ""
+msgstr "¿Listo para Algo Extraordinario?"
 
 #: src/components/Footer.jsx:126
 msgid "Redefining luxury travel through ecological consciousness. Every journey we craft leaves the world a little better."
-msgstr ""
+msgstr "Redefiniendo el viaje de lujo a través de la conciencia ecológica. Cada viaje que creamos deja el mundo un poco mejor."
 
 #: src/components/Experiences.jsx:33
 msgid "Ride camels across golden dunes at sunset, dine under star-filled skies in luxury desert camps, and explore ancient Berber villages."
-msgstr ""
+msgstr "Cabalga en camello a través de dunas doradas al atardecer, cena bajo cielos llenos de estrellas en campamentos de lujo en el desierto y explora pueblos bereberes antiguos."
 
 #: src/components/Experiences.jsx:58
 msgid "Sacred Temple Journey"
-msgstr ""
+msgstr "Viaje al Templo Sagrado"
 
 #: src/components/Experiences.jsx:28
 msgid "Sahara Desert Safari"
-msgstr ""
+msgstr "Safari del Desierto del Sahara"
 
 #: src/components/Testimonials.jsx:8
 msgid "Sarah & James"
-msgstr ""
+msgstr "Sarah y James"
 
 #: src/components/Experiences.jsx:23
 msgid "Soak in geothermal hot springs under the aurora borealis, explore volcanic ice caves, and stay in glass-domed eco-lodges."
-msgstr ""
+msgstr "Sumérgete en aguas termales geotérmicas bajo la aurora boreal, explora cuevas de hielo volcánico y alójate en eco-albergues con domos de vidrio."
 
 #. Trip type and destination attribution for testimonial
 #: src/components/Testimonials.jsx:15
 msgid "Solo Traveler, Iceland"
-msgstr ""
+msgstr "Viajero Solo, Islandia"
 
 #. Experience category: meditation/temple trips
 #: src/components/Experiences.jsx:76
 #: src/components/Footer.jsx:138
 msgid "Spiritual"
-msgstr ""
+msgstr "Espiritual"
 
 #: src/components/CTA.jsx:115
 msgid "Start Your Journey"
-msgstr ""
+msgstr "Comienza Tu Viaje"
 
 #. Nav link: traveler testimonials section
 #: src/components/Navbar.jsx:117
 msgid "Stories"
-msgstr ""
+msgstr "Historias"
 
 #: src/components/Footer.jsx:168
 msgid "Sustainability"
-msgstr ""
+msgstr "Sostenibilidad"
 
 #: src/components/Navbar.jsx:129
 msgid "Terra Wanderlust"
-msgstr ""
+msgstr "Terra Wanderlust"
 
 #: src/components/Testimonials.jsx:7
 msgid "Terra Wanderlust gave us the most transformative travel experience of our lives. Waking up in a treehouse canopy in Costa Rica while howler monkeys sang us awake — pure magic."
-msgstr ""
+msgstr "Terra Wanderlust nos dio la experiencia de viaje más transformadora de nuestras vidas. Despertar en un dosel de casa en árbol en Costa Rica mientras monos congos nos despertaban cantando — pura magia."
 
 #. placeholder {0}: i + 1
 #: src/components/Testimonials.jsx:166
 msgid "Testimonial {0}"
-msgstr ""
+msgstr "Testimonio {0}"
 
 #: src/components/Testimonials.jsx:19
 msgid "The attention to sustainability isn't performative — it's woven into every detail. And the views? I still dream about that Patagonian sunrise."
-msgstr ""
+msgstr "La atención a la sostenibilidad no es performativa — está tejida en cada detalle. ¿Y las vistas? Todavía sueño con ese amanecer patagónico."
 
 #: src/components/Navbar.jsx:166
 msgid "Toggle menu"
-msgstr ""
+msgstr "Alternar menú"
 
 #: src/components/Features.jsx:117
 msgid "Travel That Gives Back"
-msgstr ""
+msgstr "Viajes que Devuelven"
 
 #: src/components/Testimonials.jsx:136
 msgid "Traveler Stories"
-msgstr ""
+msgstr "Historias de Viajeros"
 
 #: src/components/Experiences.jsx:13
 msgid "Traverse suspended bridges above ancient cloud forests, zip-line between treetops, and sleep in luxury treehouses with panoramic jungle views."
-msgstr ""
+msgstr "Atraviesa puentes suspendidos sobre bosques nubosos antiguos, vuela en tirolesa entre copas de árboles y duerme en casas en árbol de lujo con vistas panorámicas de la selva."
 
 #: src/components/Experiences.jsx:253
 msgid "Unforgettable Experiences"
-msgstr ""
+msgstr "Experiencias Inolvidables"
 
 #: src/components/Experiences.jsx:312
 msgid "View Details"
-msgstr ""
+msgstr "Ver Detalles"
 
 #: src/components/Hero.jsx:210
 msgid "Watch Our Story"
-msgstr ""
+msgstr "Mira Nuestra Historia"
 
 #: src/components/Features.jsx:14
 msgid "We partner directly with indigenous communities, ensuring your visit supports local economies and preserves culture."
-msgstr ""
+msgstr "Nos asociamos directamente con comunidades indígenas, asegurando que tu visita apoye economías locales y preserve la cultura."
 
 #: src/components/CTA.jsx:127
 msgid "Welcome aboard! Check your inbox for your first adventure guide."
-msgstr ""
+msgstr "¡Bienvenido a bordo! Revisa tu bandeja de entrada para tu primera guía de aventura."
 
 #: src/components/Experiences.jsx:73
 #: src/components/Footer.jsx:138
 msgid "Wellness"
-msgstr ""
+msgstr "Bienestar"
 
 #: src/components/Destinations.jsx:113
 msgid "Where We Go"
-msgstr ""
+msgstr "Dónde Vamos"
 
 #: src/components/Features.jsx:116
 msgid "Why Terra Wanderlust"
-msgstr ""
+msgstr "Por Qué Terra Wanderlust"
 
 #: src/components/Footer.jsx:138
 msgid "Wildlife"
-msgstr ""
+msgstr "Vida Silvestre"
 
 #: src/components/Testimonials.jsx:137
 msgid "Words From the Journey"
-msgstr ""
+msgstr "Palabras del Viaje"
+
+#: src/components/Footer.jsx:186
+msgid "© 2026 Terra Wanderlust. All rights reserved."
+msgstr "© 2026 Terra Wanderlust. Todos los derechos reservados."
